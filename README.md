@@ -1,6 +1,8 @@
-# 👋 Hi, I'm Zhang Heng (衡哥)
+# 👋 Hi, I'm Zhang Heng
 
-> Web3 Frontend Engineer · Solidity Developer · Open to remote opportunities
+> Web3 Frontend Engineer · Frontend + Solidity · Open to remote opportunities
+
+**Live**: https://0xmro.online/
 
 ---
 
@@ -27,41 +29,45 @@
 
 ## 🚀 Featured Projects
 
-### [hardhatReact](https://github.com/zhanghengg/hardhatReact) · [Live Demo ↗](https://0xmro.online/)
-> Web3 full-stack monorepo — Hardhat + Solidity contracts + Next.js frontend
+### 1) [hardhatReact](https://github.com/zhanghengg/hardhatReact) · [Live ↗](https://0xmro.online/)
+> Web3 full-stack monorepo — Hardhat + Solidity contracts + Next.js frontend (Cloudflare Pages)
 
-- Implemented Uniswap V2 core contracts from scratch (Factory, Pair, Router)
-- Built ERC-20 token + Counter contract with full test coverage
-- Next.js portfolio frontend deployed on Cloudflare Pages
-- CI/CD via GitHub Actions (compile + test + build)
+- Uniswap V2 core implementation (Factory / Pair / Router)
+- ERC-20 token + Counter contract + tests
+- Frontend portfolio built with Next.js
+- CI via GitHub Actions
 
 [![CI](https://github.com/zhanghengg/hardhatReact/actions/workflows/ci.yml/badge.svg)](https://github.com/zhanghengg/hardhatReact/actions/workflows/ci.yml)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://github.com/zhanghengg/hardhatReact)
 
 ---
 
-### [solana-arbitrage](https://github.com/zhanghengg/openclaw-test) 
-> Solana DEX arbitrage scanner — real-time price comparison across Raydium & Orca
+### 2) [nextjs-clock](https://github.com/zhanghengg/nextjs-clock) · [Live ↗](https://nextjs-clock-sigma.vercel.app)
+> A beautiful real-time clock built with Next.js (static export + Vercel)
 
-- Fetches live prices from Raydium + Orca public APIs
-- CoinGecko validation layer filters out stale/manipulated prices (>50% deviation)
-- Identifies cross-DEX arbitrage opportunities with profit estimation
-- 11 unit tests, all passing
+- Real-time updates every second
+- Glassmorphism UI + subtle motion
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://github.com/zhanghengg/openclaw-test)
+---
+
+### 3) [solana-arbitrage](https://github.com/zhanghengg/openclaw-test)
+> Solana DEX arbitrage scanner — Raydium vs Orca + CoinGecko validation
+
+- Real API integration (Raydium / Orca)
+- Validates price deviation with CoinGecko (anti-bad-data)
+- Unit tests included
 
 ---
 
 ## 📍 About Me
 
-- 📍 Based in Xiamen, China — open to **remote** roles globally
-- 💼 Looking for: **Web3 Frontend**, **Full-Stack**, or **Frontend + Solidity** positions
-- 🌐 Portfolio: [0xmro.online](https://0xmro.online/)
-- 📬 Reach me via GitHub Issues or LinkedIn
+- 📍 Xiamen, China (UTC+8) · Open to remote
+- 💼 Focus: Web3 Frontend / Frontend + Solidity
+- 🌐 Portfolio: https://0xmro.online/
+- 📬 Contact: GitHub Issues (preferred)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Zhang Heng's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhanghengg&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhanghengg&layout=compact&theme=dark&hide_border=true)
+![Zhang Heng's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhanghengg&show_icons=true&theme=transparent&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhanghengg&layout=compact&theme=transparent&hide_border=true)
