@@ -1,73 +1,74 @@
-# 👋 Hi, I'm Zhang Heng
+<div align="center">
 
-> Web3 Frontend Engineer · Frontend + Solidity · Open to remote opportunities
+# 👋 张衡 | Zhang Heng
 
-**Live**: https://0xmro.online/
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=720&lines=Web3+Frontend+Engineer+%E2%80%A2+Web3+%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%88;Frontend+%2B+Solidity+Developer;Building+clean+UI+for+on-chain+products" alt="Typing SVG" />
 
----
+<p>
+  <a href="https://github.com/zhanghengg"><img src="https://img.shields.io/github/followers/zhanghengg?style=for-the-badge&logo=github&label=GitHub&color=181717" /></a>
+  <a href="https://0xmro.online/"><img src="https://img.shields.io/badge/Portfolio-0xmro.online-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=zhanghengg&style=for-the-badge&color=blueviolet" />
+</p>
 
-## 🛠 Tech Stack
-
-**Frontend**
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
-**Web3 / Blockchain**
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-F7DF1E?style=flat&logo=ethereum&logoColor=black)
-![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=flat&logo=ethereum&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat&logo=solana&logoColor=white)
-
-**Infra / Tools**
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🧭 About Me | 关于我
+
+- 🇨🇳 **厦门, China (UTC+8)** · Open to remote opportunities  
+  🇨🇳 **现居厦门（UTC+8）** · 可远程合作
+- 💼 Focus: **Web3 Frontend / Frontend + Solidity**  
+  💼 专注方向：**Web3 前端 / 前端 + Solidity**
+- 🌐 Portfolio / 个人主页: **https://0xmro.online/**
+- 📬 Contact / 联系方式: **GitHub Issues**
+
+## ⚡ Tech Stack | 技术栈
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,solidity,git,github,vscode&perline=10" />
+</p>
+
+- **Frontend 前端**: TypeScript, React, Next.js, Tailwind CSS
+- **Web3 区块链**: Solidity, Hardhat, Ethers.js, Solana basics
+- **Infra 工具链**: Cloudflare Pages, GitHub Actions, Node.js
+
+## 🚀 Featured Projects | 精选项目
 
 ### 1) [hardhatReact](https://github.com/zhanghengg/hardhatReact) · [Live ↗](https://0xmro.online/)
-> Web3 full-stack monorepo — Hardhat + Solidity contracts + Next.js frontend (Cloudflare Pages)
+**EN:** Web3 full-stack monorepo with Hardhat + Solidity contracts + Next.js frontend.  
+**中文：** 基于 Hardhat + Solidity + Next.js 的 Web3 全栈项目。
 
-- Uniswap V2 core implementation (Factory / Pair / Router)
-- ERC-20 token + Counter contract + tests
-- Frontend portfolio built with Next.js
-- CI via GitHub Actions
+- Uniswap V2 style architecture (Factory / Pair / Router)
+- ERC-20 + Counter contracts with tests
+- CI automation via GitHub Actions
 
 [![CI](https://github.com/zhanghengg/hardhatReact/actions/workflows/ci.yml/badge.svg)](https://github.com/zhanghengg/hardhatReact/actions/workflows/ci.yml)
 
----
-
 ### 2) [nextjs-clock](https://github.com/zhanghengg/nextjs-clock) · [Live ↗](https://nextjs-clock-sigma.vercel.app)
-> A beautiful real-time clock built with Next.js (static export + Vercel)
+**EN:** A polished real-time clock app built with Next.js and deployed on Vercel.  
+**中文：** 使用 Next.js 构建的高颜值实时时钟应用，部署在 Vercel。
 
-- Real-time updates every second
-- Glassmorphism UI + subtle motion
+### 3) [openclaw-test (solana-arbitrage)](https://github.com/zhanghengg/openclaw-test)
+**EN:** Solana DEX arbitrage scanner (Raydium vs Orca) with CoinGecko sanity checks.  
+**中文：** Solana 链上套利扫描器（Raydium vs Orca），并用 CoinGecko 做数据校验。
 
----
+## 📊 GitHub Stats | 数据看板
 
-### 3) [solana-arbitrage](https://github.com/zhanghengg/openclaw-test)
-> Solana DEX arbitrage scanner — Raydium vs Orca + CoinGecko validation
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=zhanghengg&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhanghengg&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
-- Real API integration (Raydium / Orca)
-- Validates price deviation with CoinGecko (anti-bad-data)
-- Unit tests included
-
----
-
-## 📍 About Me
-
-- 📍 Xiamen, China (UTC+8) · Open to remote
-- 💼 Focus: Web3 Frontend / Frontend + Solidity
-- 🌐 Portfolio: https://0xmro.online/
-- 📬 Contact: GitHub Issues (preferred)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=zhanghengg&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 
-## 📊 GitHub Stats
+<div align="center">
 
-![Zhang Heng's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhanghengg&show_icons=true&theme=transparent&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhanghengg&layout=compact&theme=transparent&hide_border=true)
+### ✨ Keep shipping, keep learning.  
+### 持续交付，持续进化。
+
+</div>
