@@ -26,12 +26,12 @@
 ## ⚡ Tech Stack | 技术栈
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,solidity,git,github,vscode&perline=10" />
+  <img src="https://skillicons.dev/icons?i=ts,js,vue,react,nextjs,tailwind,nodejs,solidity,vercel,jenkins,git,github,vscode&perline=13" />
 </p>
 
-- **Frontend 前端**: TypeScript, React, Next.js, Tailwind CSS
-- **Web3 区块链**: Solidity, Hardhat, Ethers.js, Solana basics
-- **Infra 工具链**: Cloudflare Pages, GitHub Actions, Node.js
+- **Frontend 前端**: TypeScript, JavaScript, Vue, React, Next.js, Tailwind CSS
+- **Web3 区块链**: Solidity, Hardhat, Ethers.js, wagmi, viem
+- **Infra 工具链**: Cloudflare Pages, Vercel, Jenkins, GitHub Actions, Node.js
 
 ## 🚀 Featured Projects | 精选项目
 
@@ -49,9 +49,9 @@
 **EN:** A polished real-time clock app built with Next.js and deployed on Vercel.  
 **中文：** 使用 Next.js 构建的高颜值实时时钟应用，部署在 Vercel。
 
-### 3) [openclaw-test (solana-arbitrage)](https://github.com/zhanghengg/openclaw-test)
-**EN:** Solana DEX arbitrage scanner (Raydium vs Orca) with CoinGecko sanity checks.  
-**中文：** Solana 链上套利扫描器（Raydium vs Orca），并用 CoinGecko 做数据校验。
+### 3) [openclaw-test](https://github.com/zhanghengg/openclaw-test)
+**EN:** Web3 strategy playground for protocol/data integration experiments.  
+**中文：** Web3 策略实验项目，用于协议与链上数据接入验证。
 
 ## 📊 GitHub Stats | 数据看板
 
