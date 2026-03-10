@@ -45,13 +45,17 @@
 
 [![CI](https://github.com/zhanghengg/hardhatReact/actions/workflows/ci.yml/badge.svg)](https://github.com/zhanghengg/hardhatReact/actions/workflows/ci.yml)
 
-### 2) [nextjs-clock](https://github.com/zhanghengg/nextjs-clock) · [Live ↗](https://nextjs-clock-sigma.vercel.app)
+### 2) [codexpool](https://github.com/zhanghengg/codexpool)
+**EN:** OpenAI-compatible API proxy platform with upstream account pooling, load balancing, quota control and subscription management.  
+**中文：** OpenAI 兼容的 API 中转代理平台，支持上游账号池负载均衡、用户管理、额度控制、套餐与兑换码系统。
+
+- Next.js 16 + Prisma + PostgreSQL
+- Weighted round-robin load balancing with auto circuit-breaking
+- User dashboard & admin panel
+
+### 3) [nextjs-clock](https://github.com/zhanghengg/nextjs-clock) · [Live ↗](https://nextjs-clock-sigma.vercel.app)
 **EN:** A polished real-time clock app built with Next.js and deployed on Vercel.  
 **中文：** 使用 Next.js 构建的高颜值实时时钟应用，部署在 Vercel。
-
-### 3) [openclaw-test](https://github.com/zhanghengg/openclaw-test)
-**EN:** Web3 strategy playground for protocol/data integration experiments.  
-**中文：** Web3 策略实验项目，用于协议与链上数据接入验证。
 
 ## 📊 GitHub Stats | 数据看板
 
