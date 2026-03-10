@@ -16,8 +16,8 @@
 
 ## 🧭 About Me | 关于我
 
-- 🇨🇳 **厦门, China (UTC+8)** · Open to remote opportunities  
-  🇨🇳 **现居厦门（UTC+8）** · 可远程合作
+- 🇨🇳 **China (UTC+8)** · Open to remote opportunities  
+  🇨🇳 **中国（UTC+8）** · 可远程合作
 - 💼 Focus: **Web3 Frontend / Frontend + Solidity**  
   💼 专注方向：**Web3 前端 / 前端 + Solidity**
 - 🌐 Portfolio / 个人主页: **https://0xmro.online/**
