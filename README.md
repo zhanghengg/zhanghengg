@@ -53,9 +53,13 @@
 - Weighted round-robin load balancing with auto circuit-breaking
 - User dashboard & admin panel
 
-### 3) [nextjs-clock](https://github.com/zhanghengg/nextjs-clock) · [Live ↗](https://nextjs-clock-sigma.vercel.app)
-**EN:** A polished real-time clock app built with Next.js and deployed on Vercel.  
-**中文：** 使用 Next.js 构建的高颜值实时时钟应用，部署在 Vercel。
+### 3) [Chronos-clock](https://github.com/zhanghengg/chronos-clock) · [Live ↗](https://clock.517113444.xyz)
+**EN:** Beautiful time tools suite — clock (analog + digital), world clocks, stopwatch, countdown timer & pomodoro, with dark/light themes and PWA support.  
+**中文：** 精美时间工具套件 — 模拟/数字双时钟、世界时钟、秒表、倒计时器与番茄钟，支持深色/浅色主题切换和 PWA 安装。
+
+- Next.js 16 + React 19 + Tailwind CSS v4
+- SVG analog clock + time-of-day ambient colors
+- Keyboard shortcuts + hourly chime (Web Audio API)
 
 ## 📊 GitHub Stats | 数据看板
 
