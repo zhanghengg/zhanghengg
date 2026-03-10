@@ -45,7 +45,7 @@
 
 [![CI](https://github.com/zhanghengg/hardhatReact/actions/workflows/ci.yml/badge.svg)](https://github.com/zhanghengg/hardhatReact/actions/workflows/ci.yml)
 
-### 2) [codexpool](https://github.com/zhanghengg/codexpool)
+### 2) [codexpool](https://github.com/zhanghengg/codexpool) · [Live ↗](https://codexpool.vercel.app)
 **EN:** OpenAI-compatible API proxy platform with upstream account pooling, load balancing, quota control and subscription management.  
 **中文：** OpenAI 兼容的 API 中转代理平台，支持上游账号池负载均衡、用户管理、额度控制、套餐与兑换码系统。
 
